@@ -29,12 +29,12 @@ public class SaleSuccessDTO implements Serializable{
 		this.sellerName = sellerName;
 	}
 
-	public Long getViseted() {
+	public Long getVisited() {
 		return visited;
 	}
 
-	public void setViseted(Long viseted) {
-		this.visited = viseted;
+	public void setVisited(Long visited) {
+		this.visited = visited;
 	}
 
 	public Long getDeals() {
